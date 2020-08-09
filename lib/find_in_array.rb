@@ -10,3 +10,6 @@ end
 #   puts index
 # end
 # end
+
+#array[index] = value_to_find
+#
